@@ -2,7 +2,7 @@
 
 <p align="center">
     <samp>
-Frontend Enthusiast from Prague (Czech). Contributing on GH & GL.
+Frontend Enthusiast from Prague (Czech). Activity on GH & GL.
   </samp>
   <br/>
   <br/>
@@ -10,28 +10,26 @@ Frontend Enthusiast from Prague (Czech). Contributing on GH & GL.
 </p>
 
 
-- 🔭 I’m currently working on Foxminded bootcamp. Contributing on a GitLab
+- 🔭 I’m currently take part in  Foxminded bootcamp. 
 - 🌱 I’m currently learning FrontEnd --> Typescript
 
-
-![build](https://github.com/vladimirfed/vladimirfed/workflows/build/badge.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladimirfed&layout=compact&theme=dark&hide_border=true)
 ![GitHub last commit](https://img.shields.io/github/last-commit/vladimirfed/vladimirfed)
-![pv](https://pageview.vercel.app/?github_user=vladimirfed)
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const vladimirfed = {
+  pronouns: "he" | "his",
+  code: [Javascript, HTML, CSS, React, Redux, Bootstrap],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  techCommunities: {
+                        student: "Foxminded",
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
 
 
-
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```text
-JavaScript   10 hrs 13 mins  █████████████▒░░░░░░░░░░░   53.40 %
-TypeScript   7 hrs 50 mins   ██████████▒░░░░░░░░░░░░░░   40.91 %
-SCSS         26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
-JSON         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
-Other        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-```
-
-<!--END_SECTION:waka-->
 
 ## Find me around the web 🌎:
 <a href="https://www.linkedin.com/in/vladimir-fedarenka/">
@@ -40,3 +38,5 @@ Other        13 mins         ▒░░░░░░░░░░░░░░░░
 <a href="https://www.instagram.com/vldmr.f/">
   <img align="left" alt="vladimirfed's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
+
+
