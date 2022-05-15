@@ -10,8 +10,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladimirfed&layout=compact&theme=dark&hide_border=true)  <br>
 ![GitHub last commit](https://img.shields.io/github/last-commit/vladimirfed/vladimirfed)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/month/vladimirfed/vladimirfed) 
-	![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey) 
+
 
 
 ## 🛠  More about technologies and tools i'm learning & focused on:
@@ -37,8 +36,8 @@
 <a href="https://www.instagram.com/vldmr.f/">
   <img align="left" alt="vladimirfed's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://www.instagram.com/vldmr.f/">
-  <img align="left" alt="vladimirfed's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/codewars.png" />
+<a href="https://www.codewars.com/users/vladimirfed">
+  <img align="left" alt="vladimirfed's Codewars" width="22px" src="https://stephaniecunnane.com/assets/codewars_logo.png" />
 </a>
 
 
