@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently take part in  Foxminded bootcamp. 
 - 🌱 I’m currently learning FrontEnd tools & technologies
-- 	:speaking_head:  - :england: :czech_republic: :russia:
+- 	:speaking_head:  - EN CZ RU
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladimirfed&layout=compact&theme=dark&hide_border=true)  <br>
 ![GitHub last commit](https://img.shields.io/github/last-commit/vladimirfed/vladimirfed)
