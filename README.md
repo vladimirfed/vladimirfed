@@ -1,16 +1,42 @@
-### Hi there 👋
-I am a  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<!--
-**vladimirfed/vladimirfed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Vladimir 
 
-Here are some ideas to get you started:
+<p align="center">
+    <samp>
+Frontend Enthusiast from Prague (Czech). Contributing on GH & GL.
+  </samp>
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vladimirfed&show_icons=true" alt="vladimirfed gh stats"></img>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on Foxminded bootcamp. Contributing on a GitLab
+- 🌱 I’m currently learning FrontEnd --> Typescript
+
+
+![build](https://github.com/vladimirfed/vladimirfed/workflows/build/badge.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/vladimirfed/vladimirfed)
+![pv](https://pageview.vercel.app/?github_user=vladimirfed)
+
+
+
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+
+```text
+JavaScript   10 hrs 13 mins  █████████████▒░░░░░░░░░░░   53.40 %
+TypeScript   7 hrs 50 mins   ██████████▒░░░░░░░░░░░░░░   40.91 %
+SCSS         26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+JSON         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+Other        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+```
+
+<!--END_SECTION:waka-->
+
+## Find me around the web 🌎:
+<a href="https://www.linkedin.com/in/vladimir-fedarenka/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/vldmr.f/">
+  <img align="left" alt="vladimirfed's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
