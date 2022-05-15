@@ -40,7 +40,7 @@
   <img align="left" alt="vladimirfed's Codewars" width="40px" src="https://stephaniecunnane.com/assets/codewars_logo.png" />
 </a>
 <a href="https://lichess.org/@/CharlieGordon185">
-  <img align="left" alt="vladimirfed's Lichess" width="40px" src="https://image.spreadshirtmedia.net/image-server/v1/compositions/T1459A839PA4459PT28D182669019FS4854/views/1,width=650,height=650,appearanceId=839/our-logo-is-now-wearable-so-you-can-show-your-lichess-pride-every-day.jpg" />
+  <img align="left" alt="vladimirfed's Lichess" width="38px" src="https://image.spreadshirtmedia.net/image-server/v1/compositions/T1459A839PA4459PT28D182669019FS4854/views/1,width=650,height=650,appearanceId=839/our-logo-is-now-wearable-so-you-can-show-your-lichess-pride-every-day.jpg" />
 </a>
 
 
