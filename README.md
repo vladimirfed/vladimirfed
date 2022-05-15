@@ -46,6 +46,6 @@ and other...
 <a href="https://www.instagram.com/vldmr.f/">
   <img align="left" alt="vladimirfed's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-
-💼 any job opportunity? do reach, [email](mailto:fedarenkav@gmail.com) :)
+<br>
+💼 any job opportunity or collaboration? do reach, [email](mailto:fedarenkav@gmail.com) :)
 
