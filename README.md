@@ -47,5 +47,6 @@ and other...
   <img align="left" alt="vladimirfed's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <br>
+```
 💼 any job opportunity or collaboration? do reach, [email](mailto:fedarenkav@gmail.com) :)
-
+```
