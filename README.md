@@ -10,6 +10,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladimirfed&layout=compact&theme=dark&hide_border=true)  <br>
 ![GitHub last commit](https://img.shields.io/github/last-commit/vladimirfed/vladimirfed)
+![GitHub commit-activity](https://img.shields.io/github/commit-activity/month/vladimirfed/vladimirfed) /github/commit-activity/:interval/:user/:repo
 
 
 ## 🛠  More about technologies and tools i'm learning & focused on:
