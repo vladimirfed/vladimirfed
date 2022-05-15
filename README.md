@@ -7,7 +7,8 @@
 - 🔭 I’m currently take part in  Foxminded bootcamp. 
 - 🌱 I’m currently learning FrontEnd tools & technologies
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladimirfed&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladimirfed&layout=compact&theme=dark&hide_border=true)  <br>
+![GitHub last commit](https://img.shields.io/github/last-commit/vladimirfed/vladimirfed)
 
 
 ## 🛠  More about technologies and tools i'm learning & focused on:
@@ -24,9 +25,7 @@
 <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
 <img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />
-and other...
 
-![GitHub last commit](https://img.shields.io/github/last-commit/vladimirfed/vladimirfed)
 
 💼 any job opportunity or collaboration? do reach, [email](mailto:fedarenkav@gmail.com) :)
 
