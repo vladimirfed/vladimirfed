@@ -5,12 +5,12 @@
 
 
 - 🔭 I’m currently take part in  Foxminded bootcamp. 
-- 🌱 I’m currently learning FrontEnd --> Typescript
+- 🌱 I’m currently learning FrontEnd tools & technologies
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladimirfed&layout=compact&theme=dark&hide_border=true)
 
 
-## 🛠  Technologies and tools i'm focused on :
+## 🛠  More about technologies and tools i'm learning & focused on:
 
 <a name="learning-now"></a>
 
