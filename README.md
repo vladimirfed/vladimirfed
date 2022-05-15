@@ -31,13 +31,13 @@
 
 ## Find me around the web 🌎:
 <a href="https://www.linkedin.com/in/vladimir-fedarenka/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Abhishek's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/vldmr.f/">
-  <img align="left" alt="vladimirfed's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="vladimirfed's Instagram" width="40px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://www.codewars.com/users/vladimirfed">
-  <img align="left" alt="vladimirfed's Codewars" width="22px" src="https://stephaniecunnane.com/assets/codewars_logo.png" />
+  <img align="left" alt="vladimirfed's Codewars" width="40px" src="https://stephaniecunnane.com/assets/codewars_logo.png" />
 </a>
 
 
