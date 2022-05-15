@@ -38,6 +38,7 @@ and other...
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/vladimirfed/vladimirfed)
 
+💼 any job opportunity or collaboration? do reach, [email](mailto:fedarenkav@gmail.com) :)
 
 ## Find me around the web 🌎:
 <a href="https://www.linkedin.com/in/vladimir-fedarenka/">
@@ -46,7 +47,6 @@ and other...
 <a href="https://www.instagram.com/vldmr.f/">
   <img align="left" alt="vladimirfed's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<br>
-```
-💼 any job opportunity or collaboration? do reach, [email](mailto:fedarenkav@gmail.com) :)
-```
+
+
+
