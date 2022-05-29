@@ -9,8 +9,8 @@
 - 	:speaking_head:   EN CZ RU
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladimirfed&layout=compact&theme=dark&hide_border=true)  <br>
-   - ![GitHub last commit](https://img.shields.io/github/last-commit/vladimirfed) 
-
+<!--    - ![GitHub last commit](https://img.shields.io/github/last-commit/vladimirfed/name_repo) 
+ -->
 
 
 ## 🛠  More about technologies and tools i'm learning & focused on:
