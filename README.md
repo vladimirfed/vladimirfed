@@ -34,7 +34,7 @@
   <img align="left" alt="Abhishek's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="mailto:fedarenkav@gmail.com">
-  <img align="left" alt="vladimirfed's mail" width="40px" src="[https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png](https://image.similarpng.com/very-thumbnail/2020/12/Gmail-logo-design-on-transparent-background-PNG.png)" />
+  <img align="left" alt="vladimirfed's mail" width="40px" src="https://image.similarpng.com/very-thumbnail/2020/12/Gmail-logo-design-on-transparent-background-PNG.png" />
 </a>
 <a href="https://www.codewars.com/users/vladimirfed">
   <img align="left" alt="vladimirfed's Codewars" width="40px" src="https://stephaniecunnane.com/assets/codewars_logo.png" />
