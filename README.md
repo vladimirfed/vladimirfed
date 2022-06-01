@@ -4,7 +4,7 @@
 
 
 
-// - 🔭 I’m currently take part in  Fox 
+\\ - 🔭 I’m currently take part in  Fox 
 - 🌱 I’m currently learning FrontEnd tools & technologies
 - 	:speaking_head:   EN CZ RU
 
