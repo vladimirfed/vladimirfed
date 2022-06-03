@@ -39,7 +39,7 @@
   <img align="left" alt="vladimirfed's Lichess" width="38px" src="https://image.spreadshirtmedia.net/image-server/v1/compositions/T1459A839PA4459PT28D182669019FS4854/views/1,width=650,height=650,appearanceId=839/our-logo-is-now-wearable-so-you-can-show-your-lichess-pride-every-day.jpg" />
 </a>
 <a href="https://codepen.io/vladimirfed">
-  <img align="left" alt="vladimirfed's Codepen" width="40px" src="https://img.favpng.com/13/19/12/computer-icons-scalable-vector-graphics-portable-network-graphics-codepen-png-favpng-T8NcxG8PN1La2ZkBAEwXK3Niq.jpg" />
+  <img align="left" alt="vladimirfed's Codepen" width="38px" src="https://img.favpng.com/13/19/12/computer-icons-scalable-vector-graphics-portable-network-graphics-codepen-png-favpng-T8NcxG8PN1La2ZkBAEwXK3Niq.jpg" />
 </a>
 
 
