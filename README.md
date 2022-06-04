@@ -1,6 +1,7 @@
 ### Hi, I'm Vladimir 	:wave:
 
 ### Frontend Enthusiast from Prague (Czech). Activity on GH & GL. 	:technologist:
+![codewars](https://www.codewars.com/users/vladimirfed/badges/large)
 
 - 🌱 I’m currently learning FrontEnd tools & technologies
 - 	:speaking_head:   EN CZ RU
@@ -8,7 +9,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladimirfed&layout=compact&theme=dark&hide_border=true)  <br>
 <!--    - ![GitHub last commit](https://img.shields.io/github/last-commit/vladimirfed/name_repo) 
  -->
-![codewars](https://www.codewars.com/users/vladimirfed/badges/large)
 
 ## 🛠  More about technologies and tools i'm learning & focused on:
 <a name="learning-now"></a>
