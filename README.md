@@ -1,6 +1,6 @@
 ### Hi, I'm Vladimir 	:wave:
 
-### Frontend Enthusiast from Prague (Czech). Activity on GH & GL. 	:technologist:
+### Frontend developer. Prague (Czech). Activity on GH & GL. 	:technologist:
 ![codewars](https://www.codewars.com/users/vladimirfed/badges/large)
 
 - 🌱 I’m currently learning FrontEnd tools & technologies
