@@ -1,8 +1,8 @@
 ### Hi, I'm Vladimir 	:wave:
 
 ### Frontend developer. Prague (Czech). 	:technologist:
-![codewars](https://www.codewars.com/users/vladimirfed/badges/large)
-[![LeetCode user vladimirfed](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fvladimirfed&logo=leetcode&logoColor=yellow)](https://leetcode.com/vladimirfed/)
+##Codewars - ![codewars](https://www.codewars.com/users/vladimirfed/badges/large) <br>
+##Leetcode - [![LeetCode user vladimirfed](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fvladimirfed&logo=leetcode&logoColor=yellow)](https://leetcode.com/vladimirfed/)
 
 - 🌱 I’m currently learning FrontEnd tools & technologies
 - 	:speaking_head:   EN CZ RU
