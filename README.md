@@ -1,10 +1,6 @@
-### Hi, I'm Vladimir 	:wave:
+## Hi, I'm Vladimir 	:wave:
 
-### Frontend developer. Prague (Czech). 	:technologist:
-## Codewars 
-![codewars](https://www.codewars.com/users/vladimirfed/badges/large) <br>
-## Leetcode 
-[![LeetCode user vladimirfed](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fvladimirfed&logo=leetcode&logoColor=yellow)](https://leetcode.com/vladimirfed/)
+## Frontend developer. Prague (Czech). 	:technologist:
 
 - 🌱 I’m currently learning FrontEnd tools & technologies
 - 	:speaking_head:   EN CZ RU
@@ -25,8 +21,13 @@
 <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
 <!-- <img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /> -->
-<!-- <img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />
- -->
+<img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />
+
+ 
+### Codewars 
+![codewars](https://www.codewars.com/users/vladimirfed/badges/large) <br>
+### Leetcode 
+[![LeetCode user vladimirfed](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fvladimirfed&logo=leetcode&logoColor=yellow)](https://leetcode.com/vladimirfed/)
 
 
 ## Find me around the web 🌎:
