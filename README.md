@@ -1,7 +1,8 @@
 ### Hi, I'm Vladimir 	:wave:
 
-### Frontend developer. Prague (Czech). Activity on GH & GL. 	:technologist:
+### Frontend developer. Prague (Czech). 	:technologist:
 ![codewars](https://www.codewars.com/users/vladimirfed/badges/large)
+[![LeetCode user vladimirfed](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fvladimirfed&logo=leetcode&logoColor=yellow)](https://leetcode.com/vladimirfed/)
 
 - 🌱 I’m currently learning FrontEnd tools & technologies
 - 	:speaking_head:   EN CZ RU
@@ -10,12 +11,13 @@
 <!--    - ![GitHub last commit](https://img.shields.io/github/last-commit/vladimirfed/name_repo) 
  -->
 
-## 🛠  More about technologies and tools i'm learning & focused on:
+## 🛠  Tech stack:
 <a name="learning-now"></a>
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
 <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
 <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
+<img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=ff0000" alt="Angular logo" title="Angular" height="25" />
 <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
 <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
 <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
