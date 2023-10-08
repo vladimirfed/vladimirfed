@@ -33,7 +33,7 @@
 
 ## Find me around the web 🌎:
 <a href="https://www.linkedin.com/in/vladimir-fedarenka/">
-  <img align="left" alt="vladimirfed's LinkedIN" width="40px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg](https://cdn-icons-png.flaticon.com/512/174/174857.png)" />
+  <img align="left" alt="vladimirfed's LinkedIN" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 <a href="mailto:fedarenkav@gmail.com">
   <img align="left" alt="vladimirfed's mail" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" />
