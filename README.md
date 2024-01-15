@@ -15,12 +15,13 @@
 <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
 <img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />
-<!-- <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /> -->
 <img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" />
 <img src="https://img.shields.io/badge/Rxjs-282C34?logo=rxjs&logoColor=C21325" alt="Rxjs logo" title="Rxjs" height="25" />
 <img src="https://img.shields.io/badge/IntellijIdea-282C34?logo=intellijidea&logoColor=C21325" alt="IntellijIdea logo" title="IntellijIdea" height="25" />
 <img src="https://img.shields.io/badge/AgGrid-282C34?logo=aggrid&logoColor=C21325" alt="AgGrid logo" title="AgGrid" height="25" />
 <img src="https://img.shields.io/badge/TeamCity-282C34?logo=teamcity&logoColor=C21325" alt="TeamCity logo" title="TeamCity" height="25" />
+<!-- <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /> -->
+
 
 
 
