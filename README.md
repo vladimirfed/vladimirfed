@@ -1,6 +1,6 @@
 ### Hi, I'm Vladimir 
 
-## Frontend developer. Prague (Czech). 
+## Software developer. Prague (Czech). 
 
 - 	:speaking_head:   EN CZ RU
 
