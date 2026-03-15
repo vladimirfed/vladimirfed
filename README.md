@@ -4,25 +4,13 @@
 
 - 	:speaking_head:   EN CZ RU
 
-## 🛠  Tech stack:
+## 🛠  Main Tech stack:
 <a name="learning-now"></a>
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
 <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
-<img src="https://img.shields.io/badge/HTML-282C34?logo=html5&logoColor=E34F26" alt="HTML logo" title="HTML" height="25" />
-<img src="https://img.shields.io/badge/CSS-282C34?logo=css3&logoColor=1572B6" alt="CSS logo" title="CSS" height="25" />
 <img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=C21325" alt="Angular logo" title="Angular" height="25" />
 <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
-<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
-<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
-<img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />
-<img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" />
-<img src="https://img.shields.io/badge/Rxjs-282C34?logo=rxjs&logoColor=C21325" alt="Rxjs logo" title="Rxjs" height="25" />
-<img src="https://img.shields.io/badge/IntellijIdea-282C34?logo=intellijidea&logoColor=C21325" alt="IntellijIdea logo" title="IntellijIdea" height="25" />
-<img src="https://img.shields.io/badge/AgGrid-282C34?logo=aggrid&logoColor=C21325" alt="AgGrid logo" title="AgGrid" height="25" />
-<img src="https://img.shields.io/badge/TeamCity-282C34?logo=teamcity&logoColor=C21325" alt="TeamCity logo" title="TeamCity" height="25" />
-<!-- <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /> -->
-
-
+<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
 
 
 
@@ -49,9 +37,6 @@
 </a>
 <a href="https://lichess.org/@/CharlieGordon185">
   <img align="left" alt="vladimirfed's Lichess" width="38px" src="https://image.spreadshirtmedia.net/image-server/v1/compositions/T1459A839PA4459PT28D182669019FS4854/views/1,width=650,height=650,appearanceId=839/our-logo-is-now-wearable-so-you-can-show-your-lichess-pride-every-day.jpg" />
-</a>
-<a href="https://codepen.io/vladimirfed">
-  <img align="left" alt="vladimirfed's Codepen" width="38px" src="https://img.favpng.com/13/19/12/computer-icons-scalable-vector-graphics-portable-network-graphics-codepen-png-favpng-T8NcxG8PN1La2ZkBAEwXK3Niq.jpg" />
 </a>
 
 
